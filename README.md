@@ -24,3 +24,8 @@ examples thus some of the code is Copyright © 2001-2013 Python
 Software Foundation; All Rights Reserved under the PSF license (GPL
 compatible) http://docs.python.org/2/library/socketserver.html
 
+resources used:
+
+https://stackoverflow.com/questions/947372/custom-simple-python-http-server-not-serving-css-files
+https://stackoverflow.com/questions/36122461/trying-to-send-http-response-from-low-level-socket-server
+
